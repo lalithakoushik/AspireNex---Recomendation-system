@@ -38,8 +38,6 @@ Streamlit
 
 streamlit run filename.py
 
-### For my project command is :
 
-streamlit run rec.py
 
 
