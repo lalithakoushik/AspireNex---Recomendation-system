@@ -34,4 +34,12 @@ Numpy
 
 Streamlit
 
+### To run the file command is :
+
+streamlit run filename.py
+
+### For my project command is :
+
+streamlit run rec.py
+
 
